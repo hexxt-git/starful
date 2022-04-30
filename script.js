@@ -41,7 +41,7 @@ c.fillStyle = `#EEE`
 c.strokeStyle = `#EEE`
 
 let sft = 150
-for ( let a = 0 ; a < 2 ; a++){
+for ( let a = 0 ; a < 3 ; a++){
 c.beginPath()
 let x = random( 150, width - 150)
 let y = random( 150, height - 150)
