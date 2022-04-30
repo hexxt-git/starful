@@ -1,0 +1,16 @@
+body{
+    background-color: #050506;
+    color: #EEE;
+    font-family: monospace;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0px;
+    font-family: monospace;
+}
+.blur{
+    filter: blur(0.6px);
+    -webkit-filter: blur(0.6px);
+}
+.canvas{
+    background-color: #444;
+}
