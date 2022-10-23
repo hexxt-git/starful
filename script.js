@@ -1,4 +1,4 @@
-//9EED 'api'
+//9EED 'library'
 function rdm(max){
     return Math.floor(Math.random()*(max +1));
 };
@@ -71,7 +71,6 @@ for ( let i = 0 ; i < 4 ; i++){
 c.stroke()
 }
 
-
 c.fillStyle = `#EEE`
 
 for ( let i = 0 ; i < 0 ; i++){
@@ -83,16 +82,3 @@ for ( let i = 0 ; i < 0 ; i++){
         c.fillRect( x + shift(70), y + shift(70), 1, 1)
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
